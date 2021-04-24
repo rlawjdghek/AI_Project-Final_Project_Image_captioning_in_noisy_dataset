@@ -1,7 +1,7 @@
 # AI Project-Image Captioningin Noisy Dataset
 
 To make problem hard, there are some noisy and wrong images and captions in original data. 
-Therefore, I remove those of data and fix corresponded captions. You can download image data in [here](). 
+Therefore, I remove those of data and fix corresponded captions. You can download image data in [here](https://drive.google.com/drive/folders/1Xtk-EK0-CfwfNWShvjF8RpAnjZbBePMA?usp=sharing). 
 
 If you want to train the model, you can use
 ```bash
